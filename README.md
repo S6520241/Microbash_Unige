@@ -1,7 +1,5 @@
 # Microbash_Unige
 
-# Microbash_Unige
-
 # Progetto Micro-bash
 
 Questo repository contiene `microbash`, un interprete di comandi (shell) minimale sviluppato in C. Il progetto è stato originariamente realizzato a supporto del laboratorio di Sistemi di Elaborazione e Trasmissione dell'Informazione (SETI) presso l'Università degli Studi di Genova.
